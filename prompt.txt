@@ -1,0 +1,1 @@
+create a simple chatbot using gemini APi key which answers the query of the user, create in local system.
